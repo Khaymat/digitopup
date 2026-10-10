@@ -1,4 +1,4 @@
-# 🎮 DigiTopup - Web Platform Top Up Game & Produk Digital
+# DigiTopup - Web Platform Top Up Game & Produk Digital
 
 <p align="center">
   <img src="assets/banner/BANNER.png" alt="DigiTopup Banner Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
@@ -17,14 +17,14 @@
 
 ---
 
-## 📸 Preview Web & Layanan
+## Preview Web & Layanan
 
-### 🖼️ Banner Promo & Hero Section
+### Banner Promo & Hero Section
 <p align="center">
   <img src="assets/banner/BANNER2.png" alt="DigiTopup Hero Banner" width="90%" style="border-radius: 8px;">
 </p>
 
-### 🎯 Pilihan Game Populer
+### Pilihan Game Populer
 Platform mendukung berbagai game terpopuler dengan katalog otomatis:
 
 | Mobile Legends | Free Fire | Genshin Impact |
@@ -37,18 +37,18 @@ Platform mendukung berbagai game terpopuler dengan katalog otomatis:
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-- ⚡ **Transaksi Otomatis & Real-time**: Pembelian koin, diamond, uc, dan pass langsung diproses setelah verifikasi.
-- 🔍 **Cek Pesanan / Invoice Tracker**: Pelanggan dapat melacak status pesanan secara transparan hanya dengan memasukkan nomor invoice.
-- 👥 **Sistem Membership & Reseller**:
+- **Transaksi Otomatis & Real-time**: Pembelian koin, diamond, uc, dan pass langsung diproses setelah verifikasi.
+- **Cek Pesanan / Invoice Tracker**: Pelanggan dapat melacak status pesanan secara transparan hanya dengan memasukkan nomor invoice.
+- **Sistem Membership & Reseller**:
   - Tingkatan akun: *Member*, *Gold*, *Platinum*.
   - Harga khusus berjenjang untuk member reseller.
-- 💳 **Metode Pembayaran Lengkap**:
+- **Metode Pembayaran Lengkap**:
   - Virtual Account Bank
   - E-Wallet (QRIS, OVO, GoPay, DANA)
   - Fitur deposit saldo akun
-- 🛡️ **Panel Admin Lengkap**:
+- **Panel Admin Lengkap**:
   - Manajemen produk & kategori game
   - Monitoring transaksi & riwayat pesanan
   - Konfigurasi gateway pembayaran & markup margin
@@ -56,7 +56,7 @@ Platform mendukung berbagai game terpopuler dengan katalog otomatis:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** [Laravel](https://laravel.com/) (PHP MVC Framework)
 - **Frontend:** Blade Templating, Bootstrap, JavaScript (jQuery & Mix)
@@ -65,7 +65,7 @@ Platform mendukung berbagai game terpopuler dengan katalog otomatis:
 
 ---
 
-## 📁 Struktur Direktori
+## Struktur Direktori
 
 ```text
 DigiTopup/
@@ -84,7 +84,7 @@ DigiTopup/
 
 ---
 
-## 🚀 Panduan Instalasi Lokal
+## Panduan Instalasi Lokal
 
 ### 1. Clone Repository
 ```bash
@@ -123,5 +123,5 @@ Akses web melalui browser di `http://127.0.0.1:8000`.
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 Project ini dibuat untuk keperluan pembelajaran dan portofolio pengembangan web e-commerce digital.
